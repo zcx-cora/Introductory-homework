@@ -1,2 +1,2 @@
 # Introductory-homework
-use r
+dataset contains covariates.csv and biomarkers.csv
